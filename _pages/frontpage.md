@@ -34,7 +34,7 @@ The DDD Alliance provides
 * a knowledge base
 * a list of training providers
 * an assessment of frameworks and solutions
-* implementation partners
+* potential implementation partners
 * a network of community experts
 
 through its members.
