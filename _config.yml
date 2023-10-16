@@ -1,6 +1,7 @@
 title: DDD Alliance
 description: Bringing the Domain Driven Design community closer togehter
 author: "DDD Alliance"
+org_name: DDD Alliance
 
 theme: minima
 
@@ -25,6 +26,7 @@ minima:
 # Minima: custom header links
 header_pages:
   - _pages/frontpage.md
+  - _pages/join.md
   - _pages/about.md
   - _pages/archive.md
 
