@@ -4,23 +4,34 @@ layout: home
 title: Welcome
 list_title: Recent news
 ---
+The DDD Alliance is a not-for-profit organization which that advocates for reliable, vendor-agnostic information on Domain Driven Design, Event Sourcing and CQRS based on instustry standards and best practices.
 
-This is a template and some instructions for running Github Pages with the [`minima` theme][minima]. This repo has what I consider the minimum pieces for a personal blog using [Jekyll][jk] and [Github Pages][gh-site].
+This includes fundamentals, workshops, trainings, technologies and finding implementation partners.
 
-Check out the excellent [`minima` theme][minima] documentation for further details and customization and the [official docs][gh] for more details on how Github Pages work.
+Finally the DDD Alliance aims bringing the Domain-driven design community closer together.
 
-Do you have questions? feel free to [open an issue][issue] or find out how toreach me from my [contact page][contact].
+## Why?
+Following the Domain-driven design philosophy is a slippery slope with a steep learning curve. While it is relatively easy to understand the basics, some aspects take several months (or years) to handle them correctly.
+Implementing it using Event Sourcing and CQRS complicates the problem further, as some options are better than others. 
 
-<img src="./assets/imgs/screenshot.png" width="400px">
+While there are a plethora of more or less simplistic articles on the internet, but getting started with Domain Driven Design, Event Sourcing and CQRS is hard - especially if one does not know where to start. 
 
-For more details about how this example site works checkout [the github project](https://github.com/jsanz/gh-pages-minima-starter).
+As a company looking to start the next DDD + ES + CQRS project it might be difficult to choose a suitable technology stack. Extensive research is required in order to assess possible options.
+There is a risk tapping into common pitfalls that can be avoided.
 
+## How?
+The DDD Alliance solves this problem by
+* helping you getting started
+* providing a knowledge base about best practices and technologies which are regarded as good practice
+* connecting people and organizations with experts on the topic, e.g. through events, trainings 
+* helps implementing Domain Driven Design, Event Sourcing and CQRS correctly using community best practices and industry standards tailored to your use case 
 
-Have a great day!!
+## What?
+The DDD Alliance provides
+* a knowledge base
+* a list of training providers
+* an assessment of frameworks and solutions
+* implementation partners
+* a network of community experts
 
-[gh-site]: https://pages.github.com/
-[minima]: https://github.com/jekyll/minima/tree/2.5-stable
-[jk]: https://jekyllrb.com/
-[gh]: https://help.github.com/en/github/working-with-github-pages
-[issue]: https://github.com/jsanz/gh-pages-minima-starter/issues/new/choose
-[contact]: https://jorgesanz.net/contact/
+through its members.
