@@ -28,7 +28,6 @@ header_pages:
   - _pages/frontpage.md
   - _pages/join.md
   - _pages/about.md
-  - _pages/archive.md
 
 include:
     - _pages
