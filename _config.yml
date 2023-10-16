@@ -8,6 +8,12 @@ repository: jsanz/gh-pages-minima-starter
 
 # Minima social links
 github_username: ddd-alliance
+youtube_username: dddalliance
+rss: rss
+
+mastodon:
+ - username: dddalliance
+   instance: mastodon.social
 rss: rss
 
 # Minima: show excerpts in the frontpage
@@ -15,9 +21,6 @@ show_excerpts: true
 
 minima:
   date_format: "%Y-%m-%d"
-  social_links:
-  - { platform: youtube, user_url: "https://www.youtube.com/@dddalliance" }
-  - { platform: github, user_url: "https://www.youtube.com/ddd-alliance" }
 
 # Minima: custom header links
 header_pages:
