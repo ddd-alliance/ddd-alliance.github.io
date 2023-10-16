@@ -4,7 +4,7 @@ layout: page
 title: About us
 ---
 
-The DDD Alliance is a not-for-profit organization which that advocates for reliable, vendor-agnostic information on [Domain-driven design][ddd], Event Sourcing and [CQRS][cqrs] based on instustry standards and best practices.
+The DDD Alliance is a not-for-profit organization which advocates for reliable, vendor-agnostic information on [Domain-driven design][ddd], Event Sourcing and [CQRS][cqrs] based on insdustry standards and best practices.
 
 We are an impartial organization dedicated to offering a wealth of resources, educational materials, and expert guidance through a worldwide network of industry professionals. Our mission is to safeguard the fundamental principles of Domain Driven Design and assist businesses in navigating the crucial aspects of transitioning from legacy systems to modern infrastructure using a Domain-driven design approach. In doing so we are emphasizing standards, interoperability, and other essential considerations when establishing and implementing a Domain-driven design approach.
 
