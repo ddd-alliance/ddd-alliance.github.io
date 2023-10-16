@@ -20,7 +20,7 @@ Currently we are looking for
 - founding members (both people and organizations) who are willing to support and drive our cause
 - amabassadors spreading the word about the DDD Alliance, its values and goals
 
-[Open an issue][github-issues] to reach out.
+[Open an issue][github-issues] to reach out. Members will also become part of the GitHub organization.
 
 ## Discuss
 There is a [discussion forum on GitHub][discuss] to discuss current topics and latest news.
