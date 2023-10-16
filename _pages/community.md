@@ -5,8 +5,10 @@ title: Community
 ---
 
 This page provides an overview and helpful resources across the community. Please note that we are not affiliated with any of these.
-If you would like to add your own, feel free to submit a pull request or [join the alliance](/join).
 
+Feel free to [submit a pull request][pull-request] or [join the alliance](/join) if you feel something is missing.
+
+[pull-request]: https://github.com/ddd-alliance/ddd-alliance.github.io/pulls
 
 ## Conferences
 
