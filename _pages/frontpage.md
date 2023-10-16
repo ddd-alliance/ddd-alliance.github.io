@@ -4,11 +4,14 @@ layout: home
 title: Welcome
 list_title: Recent news
 ---
-The DDD Alliance is a not-for-profit organization which that advocates for reliable, vendor-agnostic information on Domain Driven Design, Event Sourcing and CQRS based on instustry standards and best practices.
+The DDD Alliance is a not-for-profit organization which that advocates for reliable, vendor-agnostic information on [Domain-driven design][ddd], Event Sourcing and [CQRS][cqrs] based on instustry standards and best practices.
 
 This includes fundamentals, workshops, trainings, technologies and finding implementation partners.
 
 Finally the DDD Alliance aims bringing the Domain-driven design community closer together.
+
+[ddd]: https://en.wikipedia.org/wiki/Domain-driven_design
+[cqrs]: https://en.wikipedia.org/wiki/Command_Query_Responsibility_Segregation
 
 ## Why?
 Following the Domain-driven design philosophy is a slippery slope with a steep learning curve. While it is relatively easy to understand the basics, some aspects take several months (or years) to handle them correctly.
