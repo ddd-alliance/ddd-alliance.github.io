@@ -2,7 +2,7 @@
 permalink: /
 layout: home
 title: Welcome
-list_title: Recent news
+list_title: Insights
 ---
 The DDD Alliance is a not-for-profit organization that advocates for reliable, vendor-agnostic information on [Domain-driven design][ddd], Event Sourcing and [CQRS][cqrs] based on instustry standards and best practices.
 

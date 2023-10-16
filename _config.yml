@@ -27,6 +27,7 @@ minima:
 header_pages:
   - _pages/frontpage.md
   - _pages/community.md
+  - _pages/insights.md
   - _pages/about.md
   - _pages/join.md
 

@@ -1,7 +1,7 @@
 ---
-permalink: /archive
+permalink: /insights
 layout: page
-title: Blog archive
+title: Insights
 ---
 
 
