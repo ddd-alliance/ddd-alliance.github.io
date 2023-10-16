@@ -26,8 +26,9 @@ minima:
 # Minima: custom header links
 header_pages:
   - _pages/frontpage.md
-  - _pages/join.md
   - _pages/about.md
+  - _pages/join.md
+
 
 include:
     - _pages
