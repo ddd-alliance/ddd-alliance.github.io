@@ -19,3 +19,5 @@ We are an impartial organization dedicated to offering a wealth of resources, ed
 - **Community Focus:** Community holds significant importance within the DDD Alliance. Membership in our alliance signifies a commitment to placing individual or specific interests in the background, with a primary focus on prioritizing the collective good of the entire community.
 
 - **Inclusivity and Non-Discrimination:** We uphold a commitment to fostering an environment where all individuals are welcomed and respected, regardless of their background, identity, or beliefs. Discrimination in any form will not be tolerated, and we actively work to ensure that our community is inclusive and free from bias.
+
+- **Sociocracy 3.0:** We value the principles and practices of Sociocracy 3.0 as a means of improving governance and collaboration within our community.
